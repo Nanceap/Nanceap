@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nancy 👋🏻💻
 
-<!--
-**Nanceap/Nanceap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./Nancy%20Acevedo.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Full-Stack Developer who enjoys building efficient and scalable applications 💻.  
+I love combining functionality with creative and user-friendly design 🎨,  
+bringing ideas to life through technology 🚀.  
+
+Some of the technologies I work with include:  
+- **Front-End:** JavaScript, React, HTML, CSS, Bootstrap, Vite  
+- **Back-End:** Python, Flask, Node.js, REST APIs  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & DevOps:** Git, GitHub, Cloudinary  
+
+---
+
+### 🌍 Find me around the web
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/nancy-acevedo-pietri-b047b9233/)  
+- 📂 Explore my projects on [GitHub](https://github.com/Nanceap)  
+
+
+
+
+
+
